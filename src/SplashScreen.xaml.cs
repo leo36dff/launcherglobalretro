@@ -18,7 +18,7 @@ namespace CanaryLauncherUpdate
 {
 	public partial class SplashScreen : Window
 	{
-		static string launcerConfigUrl = "https://github.com/leo36dff/launchernewretro/blob/main/launcher_config.json";
+		static string launcerConfigUrl = "https://raw.githubusercontent.com/leo36dff/launchernewretro/main/launcher_config.json";
 		// Load informations of launcher_config.json file
 		static ClientConfig clientConfig = ClientConfig.loadFromFile(launcerConfigUrl);
 
