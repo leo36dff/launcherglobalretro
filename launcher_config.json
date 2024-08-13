@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Newstalgia",
-	"newClientUrl" : "https://github.com/leo36dff/launchernewretro",
+	"newClientUrl" : "hhttps://github.com/leo36dff/launchernewretro/releases/download/1.0/updater.zip",
 	"clientExecutable": "client.exe"
 }
