@@ -72,7 +72,7 @@
 			Margin="0, 15">
 			<Image
 				x:Name="ImageLogoServer"
-				Height="120"
+				Height="140"
 				Source="{StaticResource LogoKey}"
 				Stretch="Uniform"
 				HorizontalAlignment="Center"
@@ -205,7 +205,7 @@
 					FontFamily="Verdana"
 					FontSize="12"
 					FontWeight="Bold"
-					Foreground="#909090">Genesis</TextBlock>
+					Foreground="#909090">Newstalgia</TextBlock>
 				<Grid
 					Grid.Row="1"
 					Margin="10, 3, 10, 3">
@@ -226,10 +226,12 @@
 						Margin="5, 0, 0, 0"
 						Foreground="#bfbfbf"
 						FontFamily="Verdana"
-						FontSize="12">A new goddess stepped out of the void like a new-born mermaid from<LineBreak/> her shell.
-						The amazed elder gods watched her divine beauty in awed<LineBreak/> admiration,
-						for everything in her was perfect harmony. They agreed<LineBreak/> to call her Tibiasula.</TextBlock>
+						FontSize="12">Dive into this unprecedented adventure, Newstalgia.  A global server<LineBreak/>
+						 set back to the 7.4 era with old mechanics, old sprites and much more. <LineBreak/> It's time to Slay your first dragon on this new era!
+						 We warmly await you!<LineBreak/> Bring your friends! Become a Newstalgia Legend!</TextBlock>
 				</Grid>
+
+				
 
 			</Grid>
 		</StackPanel>
